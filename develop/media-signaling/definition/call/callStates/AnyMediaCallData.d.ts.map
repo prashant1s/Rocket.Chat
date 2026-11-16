@@ -1,0 +1,1 @@
+{"version":3,"file":"AnyMediaCallData.d.ts","sourceRoot":"","sources":["../../../../src/definition/call/callStates/AnyMediaCallData.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,oBAAoB,EAAE,MAAM,2BAA2B,CAAC;AACtE,OAAO,KAAK,EAAE,kBAAkB,EAAE,MAAM,yBAAyB,CAAC;AAElE,MAAM,MAAM,gBAAgB,GAAG,kBAAkB,GAAG,oBAAoB,CAAC"}
